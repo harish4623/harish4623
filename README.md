@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Django, Flask**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harish4623](https://github.com/harish4623)
+- 👨‍💻 All of my projects are available at [https://github.com/harish4623?tab=repositories](https://github.com/harish4623?tab=repositories)
 
 - 📫 How to reach me **harishsrinivasan13@gmail.com**
 
