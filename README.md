@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish4623&label=Profile%20views&color=0e75b6&style=flat" alt="harish4623" /> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harish4623?tab=repositories](https://github.com/harish4623?tab=repositories)
 
